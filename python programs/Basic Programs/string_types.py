@@ -1,0 +1,15 @@
+name1 = 'niraj'
+name = name1.upper()
+name = name1.capitalize()
+name = name1.center(100)
+name = name1.count("i")
+name = name1.encode()
+name = name1.endswith("j")
+name = name1.find("j")
+name = name1.format()
+name = name1.index("a")
+name = name1.lower()
+name = name1.replace("n", "N")
+name = name1.count("r")
+
+print(name)
