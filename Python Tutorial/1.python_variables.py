@@ -32,7 +32,6 @@ print(my_variable)  # Output: Hello, World!
 # 7. Python variable names should be descriptive and meaningful to enhance code readability. 
 # For example, instead of text, you could use greeting_message or welcome_message.
 
-
 # you can name variable in following ways:
 text = "How are you doing?"
 print(text)
@@ -40,9 +39,3 @@ sample_text = "This is sample text."
 print(sample_text)
 _text = "Variable in python are easy to understand."
 print(_text)
-
-
-
-
-
-
