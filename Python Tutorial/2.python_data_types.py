@@ -51,8 +51,8 @@ print("4.1. This is:", type(person), "type. \n")
 # 5. Set Types:
 
 # 5.1. Set (set): An unordered collection of unique elements.
-print("value: ", numbers)
 numbers = {1, 2, 3, 4, 5}
+print("value: ", numbers)
 print("5.1. This is:", type(numbers), "type. \n")
 
 # 5.2 Frozen Set (frozenset): An immutable version of a set.
